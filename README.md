@@ -1,4 +1,5 @@
-C:\Users\Gaming\Downloads\ezgif.com-video-to-gif (3).gif
+![ezgif com-gif-to-mp4](https://github.com/beyzaoclll/gihub-profile-card-JS/assets/139500362/2ffe7262-184f-49a6-9b0b-14a16a711bf2)
+
 
 <!DOCTYPE html>
 <html lang="en">
